@@ -35,6 +35,7 @@ public class UserController {
 
 	@RequestMapping("/addUserUI")
 	public String addUserUI() {
+		
 		return "addUser";
 	}
 
