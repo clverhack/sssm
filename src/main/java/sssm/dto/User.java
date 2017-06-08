@@ -7,7 +7,7 @@ public class User {
     
     private String password; 
     
-    private Integer age;
+    private Integer age; 
     
     public Integer getId() {    
         return id;    
